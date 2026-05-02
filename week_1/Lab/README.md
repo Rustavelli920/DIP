@@ -20,4 +20,4 @@ Introduction to fundamental OpenCV operations for image loading, manipulation, a
 
 ## Files
 - `main.ipynb` - Jupyter notebook with all exercises
-- `car.jpg` - Sample image used for processing
+- `CAU.png` - Sample image used for processing
